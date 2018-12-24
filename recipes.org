@@ -1,0 +1,73 @@
+#+TITLE: Recipes
+
+* Recipes :TOC:
+  - [[#shakshuka][Shakshuka]]
+  - [[#french-toast-casserole][French Toast Casserole]]
+
+** Shakshuka
+
+   Recipe Link: [[https://foodwishes.blogspot.com/2015/10/shakshuka-say-it-with-me-now.html][Food Wishes Shakshuka]]
+
+*** Ingredients
+    
+    | Ingredient           | Amount    | Prep             |
+    |----------------------+-----------+------------------|
+    | Olive Oil            | 2 tbsp    |                  |
+    | Onion                | 1 large   | Diced            |
+    | Mushrooms            | Handful   | Sliced           |
+    | Salt                 | 1 tsp     |                  |
+    | Red Bell Pepper      | 1 cup     | Diced            |
+    | Jalapeno             | 1         | Diced and Seeded |
+    | Cumin                | 1 tsp     |                  |
+    | Paprika              | 0.5 tsp   |                  |
+    | Tumeric              | 0.5 tsp   |                  |
+    | Black Pepper         | 0.5 tsp   |                  |
+    | Cayenne              | 0.25 tsp  |                  |
+    | San Marzano Tomatoes | 28 oz can | Crushed          |
+    | Chicken Broth        | 0.5 cups  |                  |
+    | Eggs                 | 6-12      |                  |
+    | Goat Cheese          |           |                  |
+    
+*** Recipe
+
+1. Heat a skillet over medium high heat    
+2. Cook onions and mushrooms and salt for 10 minutes
+3. Cook peppers for about 5 minutes
+4. Cook the spices for a couple minutes
+5. Simmer the tomatoes and broth on medium for 15-20 minutes
+6. Poach eggs in the sauce (cover the pan)
+7. Crumble on some goat cheese
+  
+** French Toast Casserole
+
+   Recipe Link: [[https://www.tablespoon.com/recipes/perfect-french-toast-casserole/ca16d480-f621-4067-87ad-27674feb15cb#reviewDiv][Tablespoon Perfect French Toast Casserole]]
+
+*** Ingredients
+
+    | Ingredient     | Amount   | Prep   |
+    |----------------+----------+--------|
+    | Butter         | 0.25 cup |        |
+    | Brown Sugar    | 1 cup    |        |
+    | Eggs           | 6        |        |
+    | Milk           | 2 cups   |        |
+    | Vanilla        | 1 tsp    |        |
+    | Powdered Sugar | 1 tbsp   |        |
+    | Cinnamon       | 0.5 tsp  |        |
+    | French Bread   | 1 loaf   |        |
+    | Butter         | 2 tbsp   | melted |
+ 
+*** Recipe
+    
+1. Melt 1/4 cup butter and add 3/4 cup brown sugar; stir till mixed.
+2. Spread butter and brown sugar mixture into bottom of a 9x13 baking dish.
+3. Beat eggs, milk, vanilla and powdered sugar.
+4. Lay down a layer of French toast bread (cut off crusts if desired).
+5. Ladle on half of egg mixture.
+6. Sprinkle with brown sugar and cinnamon (and pecans if you like nuts).
+7. Drizzle melted butter on one side of French toast bread for next layer (cut crusts if desired).
+8. Lay down second layer of bread, butter side up.
+9. Ladle rest of egg mixture over the top.
+10. Cover and refrigerate overnight.
+11. In the morning remove from refrigerator uncover and preheat oven to 350° F.
+12. Sprinkle with sugar and cinnamon, or pecans.
+13. Once preheated cook for 45 minutes and enjoy!
