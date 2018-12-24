@@ -1,34 +1,42 @@
 #+TITLE: Recipes
 
-* Recipes :TOC:
-  - [[#shakshuka][Shakshuka]]
-  - [[#french-toast-casserole][French Toast Casserole]]
+* Contents :TOC:
+- [[#shakshuka][Shakshuka]]
+  - [[#link][Link]]
+  - [[#ingredients][Ingredients]]
+  - [[#recipe][Recipe]]
+- [[#french-toast-casserole][French Toast Casserole]]
+  - [[#link-1][Link]]
+  - [[#ingredients-1][Ingredients]]
+  - [[#recipe-1][Recipe]]
 
-** Shakshuka
+* Shakshuka
+  
+** Link
 
-   Recipe Link: [[https://foodwishes.blogspot.com/2015/10/shakshuka-say-it-with-me-now.html][Food Wishes Shakshuka]]
+   [[https://foodwishes.blogspot.com/2015/10/shakshuka-say-it-with-me-now.html][Food Wishes Shakshuka]]
 
-*** Ingredients
+** Ingredients
     
-    | Ingredient           | Amount    | Prep             |
-    |----------------------+-----------+------------------|
-    | Olive Oil            | 2 tbsp    |                  |
-    | Onion                | 1 large   | Diced            |
-    | Mushrooms            | Handful   | Sliced           |
-    | Salt                 | 1 tsp     |                  |
-    | Red Bell Pepper      | 1 cup     | Diced            |
-    | Jalapeno             | 1         | Diced and Seeded |
-    | Cumin                | 1 tsp     |                  |
-    | Paprika              | 0.5 tsp   |                  |
-    | Tumeric              | 0.5 tsp   |                  |
-    | Black Pepper         | 0.5 tsp   |                  |
-    | Cayenne              | 0.25 tsp  |                  |
-    | San Marzano Tomatoes | 28 oz can | Crushed          |
-    | Chicken Broth        | 0.5 cups  |                  |
-    | Eggs                 | 6-12      |                  |
-    | Goat Cheese          |           |                  |
+   | Ingredient           | Amount    | Prep             |
+   |----------------------+-----------+------------------|
+   | Olive Oil            | 2 tbsp    |                  |
+   | Onion                | 1 large   | Diced            |
+   | Mushrooms            | Handful   | Sliced           |
+   | Salt                 | 1 tsp     |                  |
+   | Red Bell Pepper      | 1 cup     | Diced            |
+   | Jalapeno             | 1         | Diced and Seeded |
+   | Cumin                | 1 tsp     |                  |
+   | Paprika              | 0.5 tsp   |                  |
+   | Tumeric              | 0.5 tsp   |                  |
+   | Black Pepper         | 0.5 tsp   |                  |
+   | Cayenne              | 0.25 tsp  |                  |
+   | San Marzano Tomatoes | 28 oz can | Crushed          |
+   | Chicken Broth        | 0.5 cups  |                  |
+   | Eggs                 | 6-12      |                  |
+   | Goat Cheese          |           |                  |
     
-*** Recipe
+** Recipe
 
 1. Heat a skillet over medium high heat    
 2. Cook onions and mushrooms and salt for 10 minutes
@@ -38,25 +46,27 @@
 6. Poach eggs in the sauce (cover the pan)
 7. Crumble on some goat cheese
   
-** French Toast Casserole
+* French Toast Casserole
 
-   Recipe Link: [[https://www.tablespoon.com/recipes/perfect-french-toast-casserole/ca16d480-f621-4067-87ad-27674feb15cb#reviewDiv][Tablespoon Perfect French Toast Casserole]]
+** Link
+   
+   [[https://www.tablespoon.com/recipes/perfect-french-toast-casserole/ca16d480-f621-4067-87ad-27674feb15cb#reviewDiv][Tablespoon Perfect French Toast Casserole]]
 
-*** Ingredients
+** Ingredients
 
-    | Ingredient     | Amount   | Prep   |
-    |----------------+----------+--------|
-    | Butter         | 0.25 cup |        |
-    | Brown Sugar    | 1 cup    |        |
-    | Eggs           | 6        |        |
-    | Milk           | 2 cups   |        |
-    | Vanilla        | 1 tsp    |        |
-    | Powdered Sugar | 1 tbsp   |        |
-    | Cinnamon       | 0.5 tsp  |        |
-    | French Bread   | 1 loaf   |        |
-    | Butter         | 2 tbsp   | melted |
+   | Ingredient     | Amount   | Prep   |
+   |----------------+----------+--------|
+   | Butter         | 0.25 cup |        |
+   | Brown Sugar    | 1 cup    |        |
+   | Eggs           | 6        |        |
+   | Milk           | 2 cups   |        |
+   | Vanilla        | 1 tsp    |        |
+   | Powdered Sugar | 1 tbsp   |        |
+   | Cinnamon       | 0.5 tsp  |        |
+   | French Bread   | 1 loaf   |        |
+   | Butter         | 2 tbsp   | melted |
  
-*** Recipe
+** Recipe
     
 1. Melt 1/4 cup butter and add 3/4 cup brown sugar; stir till mixed.
 2. Spread butter and brown sugar mixture into bottom of a 9x13 baking dish.
@@ -71,3 +81,4 @@
 11. In the morning remove from refrigerator uncover and preheat oven to 350° F.
 12. Sprinkle with sugar and cinnamon, or pecans.
 13. Once preheated cook for 45 minutes and enjoy!
+    
